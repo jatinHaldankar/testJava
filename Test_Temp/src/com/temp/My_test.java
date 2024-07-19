@@ -6,8 +6,6 @@ public class My_test {
 		String name="jatin";
 		System.out.println("Hello World"+name);
 		System.out.println("Hello Jatin how are you?");
-
-		
 	}
 
 }
